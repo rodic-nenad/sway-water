@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3 (11970) - http://www.bohemiancoding.com/sketch -->
+    <title>Rectangle 1</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <path d="M0,0 L100,0 L100,100 L0,100 L0,0 Z M64.7162279,40.9932559 L64.3839016,40.6436471 C64.3062149,40.5573239 64.2220544,40.4699217 64.1432887,40.3879147 L64.1368148,40.3879147 L49.9956841,25.4863769 L35.8567113,40.3879147 C35.8416055,40.4051793 35.8221839,40.4224439 35.8049202,40.4375505 L35.5545965,40.7073104 L35.2848511,40.994335 L35.2740613,41.0051254 C31.8720328,44.7116266 30,49.511195 30,54.5179391 C30,65.5468035 38.9706517,74.5136231 49.9967631,74.5136231 C61.0271903,74.5136231 70,65.5457244 70,54.5179391 C70,49.5122741 68.1279672,44.7127056 64.7280967,41.0051254 L64.7162279,40.9932559 Z" id="Rectangle-1" fill="#C4EDEA" sketch:type="MSShapeGroup"></path>
+    </g>
+</svg>
